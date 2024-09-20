@@ -36,7 +36,7 @@ Here are some of my key projects that showcase my full stack development journey
 - GitHub: [@NazJaberi](https://github.com/NazJaberi)
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=NazJaberi&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NazJaberi&show_icons=true&count_private=true&include_all_commits=true&theme=dark&cache_seconds=1800)
 
 ## 🌟 Featured Repositories
 [![Forum Repo](https://github-readme-stats.vercel.app/api/pin/?username=NazJaberi&repo=Forum)](https://github.com/NazJaberi/Forum)
