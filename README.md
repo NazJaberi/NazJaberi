@@ -43,9 +43,6 @@ Here are some of my key projects that showcase my full stack development journey
 2. [Forum-Authentication](https://github.com/NazJaberi/Forum-Authentication) - Robust authentication system for web applications
 3. [ascii-art-web-dockerize](https://github.com/NazJaberi/ascii-art-web-dockerize) - ASCII art web application with Docker integration
 
-## 🌟 Featured Repositories
-[![Forum Repo](https://github-readme-stats.vercel.app/api/pin/?username=NazJaberi&repo=Forum)](https://github.com/NazJaberi/Forum)
-[![Forum-Authentication Repo](https://github-readme-stats.vercel.app/api/pin/?username=NazJaberi&repo=Forum-Authentication)](https://github.com/NazJaberi/Forum-Authentication)
 
 ## 🎯 Goals for 2024
 - Master advanced Go concepts and patterns
